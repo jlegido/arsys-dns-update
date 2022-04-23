@@ -10,7 +10,7 @@ Script to automate Arsys DNS entries
 
 The API username is the same as the domain.
 
-More info [here|https://pdc.arsys.es/descargas/Manual%20de%20Usuario%20API%20Hosting.pdf]
+More info [here](https://pdc.arsys.es/descargas/Manual%20de%20Usuario%20API%20Hosting.pdf)
 
 # Installation
 
@@ -37,7 +37,7 @@ vim example.php
 2. And update below variables:
 
 * domain. It will be used also as API username
-* api_password. Should be optained from Arsys control panel. More info [here|https://pdc.arsys.es/descargas/Manual%20de%20Usuario%20API%20Hosting.pdf]
+* api_password. Should be optained from Arsys control panel. More info [here](https://pdc.arsys.es/descargas/Manual%20de%20Usuario%20API%20Hosting.pdf)
 * dns_record. The DNS record to be updated
 * record_type. Record type ('A', 'CNAME', etc.)
 
